@@ -8,4 +8,4 @@ The following step is to install all the dependecies and that's easy since we ha
 pip install -r requirements.txt
 
 Your App is now ready to run :
-python main.py and you will be able to find it in http://localhost:8501 or https://127.0.0.1:8501
+streamlit main.py and you will be able to find it in http://localhost:8501 or https://127.0.0.1:8501
